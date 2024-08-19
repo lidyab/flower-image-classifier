@@ -1,4 +1,4 @@
-This project is part of my AI and Data science learning journey, I worked on this project when I took Udacity's Nanodegree program "AI programing with Python".
+This project is a part of my AI and data science learning journey, completed while pursuing Udacity’s Nanodegree program in "AI Programming with Python."
 
 In the project I have programed:
 - a command line application that trains a model with the given dataset.
